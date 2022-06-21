@@ -8,7 +8,6 @@ from PIL import Image
 from torchvision import transforms
 from tqdm import tqdm
 
-import model_io
 import utils
 from models import UnetAdaptiveBins
 
